@@ -1,0 +1,14 @@
+/* components/Modal.css */
+.Modal,
+.ConfirmationModal {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.Modal p,
+.ConfirmationModal p {
+  margin: 0 0 20px;
+  color: #333;
+}
